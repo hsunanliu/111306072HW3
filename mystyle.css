@@ -1,0 +1,46 @@
+body{
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 150%;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left:20%;
+}
+div{
+    margin-left: 20%;
+    font-weight: bold;
+}
+p{
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.input1{
+    margin-left: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    width:70% ;
+    height: 10%; 
+    margin-top: -3%;
+}
+.input2{
+    margin-left: 5%;
+}
+.input3{
+    margin-left: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    width:35% ;
+    height: 10%; 
+    margin-top: -3%;
+}
+.input4{
+    margin-left: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: ridge;
+    width:35% ;
+    height: 10%; 
+    margin-top: -3%;
+}
